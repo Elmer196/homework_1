@@ -1,0 +1,23 @@
+h1{
+    margin-left: 10%;
+}
+
+p{
+    text-align: left;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#div1{
+    text-align: center;
+    width: 170px;
+    padding: 20px;
+    position: fixed;
+    top: 0%;
+    left: 0;
+    background-color: #eee;
+}
+
+#div2{
+    text-align: center;
+}
